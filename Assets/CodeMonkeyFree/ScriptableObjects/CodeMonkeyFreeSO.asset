@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: lunarLanderFree
-  lastShownTimestamp: 1761663988
+  lastShownTimestamp: 1761750641
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1761663988
+  checkedLastUpdateTimestamp: 1761750641
   lastQOTDResponse:
     questionId: 236
     questionText: Can Color ever be null?
@@ -27,19 +27,18 @@ MonoBehaviour:
     answerC: Yes, as Nullable
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1761663988
+  lastQotdTimestamp: 1761750641
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/problemSolvingCourse.png
-    topText: Learn how to build ANYTHING you can imagine with this awesome skill!
-    topLink: problemsolvingcourse
-    bottomText: DONT MISS the latest important trends, sign up for my FREE Weekly
-      Newsletter!
-    bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1761663988
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/gameDevReport_2.png
+    topText: Stay up to date with the latest in Game Dev straight to your inbox!
+    topLink: gamedevreport
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1761750641
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1761663988
+  websiteLatestMessageTimestamp: 1761750641
   websiteLatestVideos:
     videos:
     - youTubeId: qX5m_EH4Wbo
@@ -50,4 +49,4 @@ MonoBehaviour:
       title: My TECH Stack as a Game Developer, YouTuber and Web Dev!
     - youTubeId: Um-hDTgP0yY
       title: TOP 10 NEW Games, Made with Unity! (SEPTEMBER 2025)
-  websiteLatestVideosTimestamp: 1761663988
+  websiteLatestVideosTimestamp: 1761750641
