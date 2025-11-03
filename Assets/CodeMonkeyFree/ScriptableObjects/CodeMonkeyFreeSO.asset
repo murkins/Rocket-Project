@@ -14,36 +14,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: lunarLanderFree
-  lastShownTimestamp: 1762087350
+  lastShownTimestamp: 1762179676
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1762087350
+  checkedLastUpdateTimestamp: 1762179676
   lastQOTDResponse:
-    questionId: 237
-    questionText: 'What will be the value of isOne?
-
-      <p>float oneThird = 1f
-      / 3f;</p>
-
-      <p>bool isOne = (oneThird * 3f) == 1f;</p>'
-    answerA: true
-    answerB: false
-    answerC: 
+    questionId: 238
+    questionText: Where is the modulo % operator particularly useful?
+    answerA: Looping back on a list
+    answerB: Counting elements in a list
+    answerC: Creating a new list with size
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1762087350
+  lastQotdTimestamp: 1762179676
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/gameDevReport_2.png
     topText: Stay up to date with the latest in Game Dev straight to your inbox!
     topLink: gamedevreport
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1762087350
+  lastDynamicHeaderTimestamp: 1762179676
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1762087350
+  websiteLatestMessageTimestamp: 1762179676
   websiteLatestVideos:
     videos:
     - youTubeId: SFVSgORBgOg
@@ -54,4 +49,4 @@ MonoBehaviour:
       title: BEST NEW Visual Assets to INSPIRE YOU! (OCTOBER 2025)
     - youTubeId: qX5m_EH4Wbo
       title: How to FAIL with 100k WISHLISTS!
-  websiteLatestVideosTimestamp: 1762087350
+  websiteLatestVideosTimestamp: 1762179676
