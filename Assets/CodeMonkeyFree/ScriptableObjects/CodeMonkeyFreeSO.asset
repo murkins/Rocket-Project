@@ -14,42 +14,47 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: lunarLanderFree
-  lastShownTimestamp: 1762439890
+  lastShownTimestamp: 1762786444
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1762439890
+  checkedLastUpdateTimestamp: 1762786444
   lastQOTDResponse:
-    questionId: 239
-    questionText: What is the difference between Action&lt;float&gt; and Func&lt;float&gt;
-      ?
-    answerA: Both are the same
-    answerB: Action&#60;float&#62; takes float parameter and Func&#60;float&#62;
-      returns float
-    answerC: Func&#60;float&#62; takes float parameter and Action&#60;float&#62;
-      returns float
+    questionId: 240
+    questionText: 'What is the value stored in percentage?
+
+      <p>int health =
+      25;</p>
+
+      <p>int healthMax = 100;</p>
+
+      <p>float percentage = health
+      / healthMax;</p>'
+    answerA: 0.25f
+    answerB: 0
+    answerC: 2.5f
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1762439890
+  lastQotdTimestamp: 1762786444
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/gameDevReport_2.png
-    topText: Stay up to date with the latest in Game Dev straight to your inbox!
-    topLink: gamedevreport
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleNov25UnityUnreal.png
+    topText: MASSIVE bundle 99% OFF on Realistic and Stylized Environments!
+    topLink: humblebundle
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1762439890
+  lastDynamicHeaderTimestamp: 1762786444
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1762439890
+  websiteLatestMessageTimestamp: 1762786444
   websiteLatestVideos:
     videos:
+    - youTubeId: Gl0leX7gqVA
+      title: Dispelling the Unity looks bad MYTH!
+    - youTubeId: 0zljaBBiOXo
+      title: Unity turns 20! Get FREE Assets and Make Games!
     - youTubeId: slMe3sbS_KM
       title: What is Unity Studio?
     - youTubeId: mtNIuwGDYUc
       title: Do GAMERS Like Pixel Art?
-    - youTubeId: SFVSgORBgOg
-      title: How do you REFACTOR code? (EXTREMELY Important!)
-    - youTubeId: g8RbZ8ymWas
-      title: 7 SPOOKY Game Dev MYTHs that aren't REAL!
-  websiteLatestVideosTimestamp: 1762439890
+  websiteLatestVideosTimestamp: 1762786444
