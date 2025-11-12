@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: lunarLanderFree
-  lastShownTimestamp: 1762786444
+  lastShownTimestamp: 1762875287
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1762786444
+  checkedLastUpdateTimestamp: 1762875287
   lastQOTDResponse:
     questionId: 240
     questionText: 'What is the value stored in percentage?
@@ -35,26 +35,26 @@ MonoBehaviour:
     answerC: 2.5f
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1762786444
+  lastQotdTimestamp: 1762875287
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleNov25UnityUnreal.png
-    topText: MASSIVE bundle 99% OFF on Realistic and Stylized Environments!
-    topLink: humblebundle
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cmBlackFriday2025.png
+    topText: Get my BLACK FRIDAY Bundle! Available now with Live Chat!
+    topLink: blackfriday
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1762786444
+  lastDynamicHeaderTimestamp: 1762875287
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1762786444
+  websiteLatestMessageTimestamp: 1762875287
   websiteLatestVideos:
     videos:
+    - youTubeId: HSLVMh25YWo
+      title: BLACK FRIDAY Bundle Available NOW! Learn and Play!
     - youTubeId: Gl0leX7gqVA
       title: Dispelling the Unity looks bad MYTH!
     - youTubeId: 0zljaBBiOXo
       title: Unity turns 20! Get FREE Assets and Make Games!
     - youTubeId: slMe3sbS_KM
       title: What is Unity Studio?
-    - youTubeId: mtNIuwGDYUc
-      title: Do GAMERS Like Pixel Art?
-  websiteLatestVideosTimestamp: 1762786444
+  websiteLatestVideosTimestamp: 1762875287
