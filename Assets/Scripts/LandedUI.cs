@@ -36,7 +36,6 @@ public class LandedUI : MonoBehaviour
             nextButtonTextMesh.text = "CONTINUE";
             nextButtonClickAction = GameManager.Instance.GoToNextLevel;
         }
-        
         else
         {
             titleTextMesh.text = "<color=#ff0000>CRASH!</color>";

@@ -14,47 +14,40 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: lunarLanderFree
-  lastShownTimestamp: 1762875287
+  lastShownTimestamp: 1763368632
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1762875287
+  checkedLastUpdateTimestamp: 1763368632
   lastQOTDResponse:
-    questionId: 240
-    questionText: 'What is the value stored in percentage?
-
-      <p>int health =
-      25;</p>
-
-      <p>int healthMax = 100;</p>
-
-      <p>float percentage = health
-      / healthMax;</p>'
-    answerA: 0.25f
-    answerB: 0
-    answerC: 2.5f
+    questionId: 242
+    questionText: What is the main difference between the out and ref keywords? (behaviour
+      inside the function)
+    answerA: out doesn't need to be set; ref MUST be set
+    answerB: out MUST be set; ref doesn't need to be set
+    answerC: No difference
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1762875287
+  lastQotdTimestamp: 1763368632
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/cmBlackFriday2025.png
     topText: Get my BLACK FRIDAY Bundle! Available now with Live Chat!
     topLink: blackfriday
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1762875287
+  lastDynamicHeaderTimestamp: 1763368632
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1762875287
+  websiteLatestMessageTimestamp: 1763368632
   websiteLatestVideos:
     videos:
+    - youTubeId: mhKXu9zPWYM
+      title: TOP 10 FREE NEW Assets NOVEMBER 2025!
+    - youTubeId: qOhIk8Z-jRc
+      title: How to make a Live Chat! (Unity, PHP, SQL, JavaScript)
+    - youTubeId: zbGWwfEhTzc
+      title: I wrote 3000 lines of code in 48 HOURS!
     - youTubeId: HSLVMh25YWo
       title: BLACK FRIDAY Bundle Available NOW! Learn and Play!
-    - youTubeId: Gl0leX7gqVA
-      title: Dispelling the Unity looks bad MYTH!
-    - youTubeId: 0zljaBBiOXo
-      title: Unity turns 20! Get FREE Assets and Make Games!
-    - youTubeId: slMe3sbS_KM
-      title: What is Unity Studio?
-  websiteLatestVideosTimestamp: 1762875287
+  websiteLatestVideosTimestamp: 1763368632
