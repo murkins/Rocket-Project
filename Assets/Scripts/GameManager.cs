@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour
     public static void ResetStaticData()
     {
         levelNumber = 1;
-        totalScore = 0;
+        totalScore = 0; 
     }
 
     public event EventHandler OnGamePaused;
